@@ -20,26 +20,15 @@ Designed and documented an end-to-end **SAP S/4HANA ERP implementation** for a m
 - Followed **SAP Activate methodology (Agile-based implementation)**  
 
 ---
+## 🧩 Modules Overview
 
-## 🧩 Modules & Responsibilities
+| Module | Key Features |
+|--------|-------------|
+| **FI** | G/L, AP, AR, Asset Accounting, Parallel Ledger |
+| **MM** | Procurement Cycle, Inventory, 3-Way Matching |
+| **SD** | Sales, Pricing, Billing, Credit Management |
 
-### 💰 Financial Accounting (FI)
-- Configured G/L, AP, AR, Asset Accounting  
-- Set up **parallel ledgers (Ind AS, IFRS)**  
-- Automated payments using **F110**  
-- Implemented taxation and compliance  
 
-### 📦 Materials Management (MM)
-- Configured procurement cycle (PR → PO → GR → Invoice)  
-- Set up **inventory management & valuation (OBYC)**  
-- Implemented **release strategy (multi-level approval)**  
-- Enabled **3-way invoice verification (MIRO)**  
-
-### 🛒 Sales & Distribution (SD)
-- Configured **sales order to billing cycle**  
-- Designed **pricing procedure (ZVKWRT)**  
-- Implemented **ATP (availability check)**  
-- Set up **credit management & billing integration**  
 
 ---
 
