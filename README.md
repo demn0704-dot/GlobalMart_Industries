@@ -9,7 +9,7 @@ Designed and documented an end-to-end **SAP S/4HANA ERP implementation** for a m
 
 ---
 
-## 🎯 Key Highlights (Resume Focus)
+## 🎯 Key Highlights 
 - Implemented **FI, MM, SD modules** with cross-module integration  
 - Designed complete **P2P and O2C workflows**  
 - Configured **GST (CGST, SGST, IGST), TDS, TCS**  
